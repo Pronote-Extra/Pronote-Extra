@@ -13,6 +13,15 @@
 
 **Pronote Extra** is an **unofficial ecosystem** on top of the official Pronote App. Its goal is to provide a lot of **personalized new features** that the current Pronote does not has like **notifications**, **average recorder**...
 
+### Current features supported:
+
+- Email push notifications
+
+### Features in development mode:
+
+- Averge recorder
+- Unofficial API
+
 ## About the technology
 
 **NPM Dependecies:**
